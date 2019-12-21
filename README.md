@@ -67,6 +67,6 @@ Kondisi Else
 Perintah untuk memilih salah satu menu yang tersedia.
 Contoh Output yang dihasilkan
 
-![image](https://user-images.githubusercontent.com/56400553/71301082-09621480-2350-11ea-9f55-873ec9692327.png)
+![image](https://user-images.githubusercontent.com/56400553/71301655-e38c3e00-2356-11ea-9e8c-84b3967673cf.png)
 
 
